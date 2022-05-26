@@ -34,7 +34,7 @@ function Form() {
    
     .then((response) => response.json())
     .then((data) => console.log(data))
-    .then(alert("Post created successfully"))
+    // .then(alert("Post created successfully"))
     .then(navigate('/Postview'))
   
   }
