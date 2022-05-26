@@ -1,0 +1,87 @@
+.top-header {
+    display: flex;
+    flex-direction: row;
+    border: 1px solid gray;
+}
+
+.top-headerImg1 {
+    width: 5vh;
+    height: 5vh;
+    margin-left: 150px;
+    margin-top: 20px;
+}
+
+.top-headerImg2 {
+    width: 5vh;
+    height: 5vh;
+    margin-left: 900px;
+    margin-top: 20px;
+}
+
+.card-postImg1 {
+    width: 5%;
+    height: 5%;
+}
+
+.header {
+    display: flex;
+    flex-direction: row;
+    width: 400px;
+    justify-content: space-between;
+    /* border: 1px solid gray; */
+}
+
+.card-postImg2 {
+    width: 400px;
+    height: 300px;
+    /* border: 1px solid gray; */
+}
+
+.card-postImg3 {
+    width: 50%;
+    height: 50%;
+    margin-top: 10px;
+}
+
+.header-3 {
+    display: flex;
+    flex-direction: row;
+    width: 400px;
+    height: 50px;
+    justify-content: space-between;
+}
+
+.all {
+    border: 1px solid gray;
+    width: 400px;
+    margin-left: 530px;
+    margin-top: 25px;
+}
+
+.likes {
+    width: 400px;
+    height: 2px;
+    margin-top: -20px;
+}
+
+.Landingpage {
+    display: flex;
+    flex-direction: row;
+}
+
+.LandingPage-img {
+    width: 50vw;
+    height: 100vh;
+}
+
+.LandingPage-2 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 250px;
+}
+
+.LandingPage-button {
+    position: relative;
+    margin-left: 60px;
+}
